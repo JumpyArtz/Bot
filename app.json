@@ -1,0 +1,16 @@
+{
+  "name": "Bot",
+  "description": "app.json",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
